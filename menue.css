@@ -1,0 +1,34 @@
+div.menue{
+position: fixed; 
+background-color: grey;
+width: 100%;
+height: 50px;
+}
+
+span.Option{
+font-size: 1.75rem;
+margin-left: 4%;
+}
+span.option1{
+  margin-left:0px;
+}
+
+.normal{
+  background-color: #999999;
+  width: 50px;
+  color:#CCCCCC;
+  text-shadow: 2px 2px 2px black
+}
+
+.highlighted{
+  background-color: #AAAAAA; 
+  width: 50px;
+  color:#EEEEEE;
+  text-shadow: 4px 4px 4px black;
+}
+.textDiv{
+	height:150rem; 
+	width:100%; 
+	background-color: #fafafa;
+	padding-top:75px;
+}
